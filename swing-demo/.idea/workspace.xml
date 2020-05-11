@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd0c536c-9e58-43ec-8f33-0a5860ea0069" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/swing-d2">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/swing-d4">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="swing-demo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\application\apache-maven-3.6.1\repository" />
+        <option name="userSettingsFile" value="D:\application\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bfdPHCecsK0D4ciooV4Ai06Ta4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/swing-d5/src/main/resources/images" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.devex.demo" />
+      <recent name="demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javawork\swing-demo\swing-d5\src\main\resources\images" />
+      <recent name="D:\javawork\swing-demo\swing-d3\src\main\resources\images" />
+      <recent name="D:\javawork\swing-demo\swing-d3\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Main" />
+      <module name="swing-demo.swing-d3.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.devex.demo.Main" />
+      <module name="swing-demo.swing-d6.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.devex.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.devex.demo.Main" />
+      <module name="swing-demo.swing-d5.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.devex.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swing4" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.devex.demo.Main" />
+      <module name="swing-demo.swing-d4.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.devex.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swing-demo:swing-d4 [compileJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/swing-d4" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="compileJava" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="swing4" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/swing-d4" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.swing4" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Gradle.swing4" />
+      <item itemvalue="Gradle.swing-demo:swing-d4 [compileJava]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.swing4" />
+        <item itemvalue="Gradle.swing-demo:swing-d4 [compileJava]" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd0c536c-9e58-43ec-8f33-0a5860ea0069" name="Default Changelist" comment="" />
+      <created>1589027055154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589027055154</updated>
+      <workItem from="1589027057092" duration="11260000" />
+      <workItem from="1589071828439" duration="10720000" />
+      <workItem from="1589113379037" duration="1910000" />
+      <workItem from="1589121555078" duration="5000" />
+      <workItem from="1589123572007" duration="18000" />
+      <workItem from="1589125326663" duration="39000" />
+      <workItem from="1589199601068" duration="11097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589075805408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589075805408" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1589207880919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589207880919" />
+    <state x="689" y="300" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589075798314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="300" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589075798314" />
+    <state x="668" y="145" key="#swing4" timestamp="1589075784598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="145" key="#swing4/0.0.1920.1040@0.0.1920.1040" timestamp="1589075784598" />
+    <state width="1877" height="346" key="GridCell.Tab.0.bottom" timestamp="1589212894819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589212894819" />
+    <state width="1877" height="346" key="GridCell.Tab.0.center" timestamp="1589212894819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589212894819" />
+    <state width="1877" height="346" key="GridCell.Tab.0.left" timestamp="1589212894819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589212894819" />
+    <state width="1877" height="346" key="GridCell.Tab.0.right" timestamp="1589212894819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589212894819" />
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom" timestamp="1589212894819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589212894819" />
+    <state width="1877" height="346" key="GridCell.Tab.1.center" timestamp="1589212894819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589212894819" />
+    <state width="1877" height="346" key="GridCell.Tab.1.left" timestamp="1589212894819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589212894819" />
+    <state width="1877" height="346" key="GridCell.Tab.1.right" timestamp="1589212894819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589212894819" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1589207313903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589207313903" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1589089837748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1589089837748" />
+    <state x="690" y="273" key="extract.method.dialog" timestamp="1589035558376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="273" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589035558376" />
+    <state x="634" y="253" width="651" height="534" key="find.popup" timestamp="1589089695368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="253" width="651" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589089695368" />
+    <state x="334" y="120" key="new project wizard" timestamp="1589207379521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="120" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589207379521" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589089004108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589089004108" />
+  </component>
+</project>

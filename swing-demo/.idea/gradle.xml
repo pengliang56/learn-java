@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="disableWrapperSourceDistributionNotification" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/application/gradle/gradle-6.3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/swing-d1" />
+            <option value="$PROJECT_DIR$/swing-d2" />
+            <option value="$PROJECT_DIR$/swing-d3" />
+            <option value="$PROJECT_DIR$/swing-d4" />
+            <option value="$PROJECT_DIR$/swing-d5" />
+            <option value="$PROJECT_DIR$/swing-d6" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

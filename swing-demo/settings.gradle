@@ -1,0 +1,8 @@
+rootProject.name = 'swing-demo'
+include 'swing-d1'
+include 'swing-d2'
+include 'swing-d3'
+include 'swing-d4'
+include 'swing-d5'
+include 'swing-d6'
+
