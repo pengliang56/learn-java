@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd0c536c-9e58-43ec-8f33-0a5860ea0069" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/swing-d7/src/main/java/com/gihub/devex/demo/JButtonListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-d8/src/main/java/com/github/devex/demo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-d8/src/main/java/com/github/devex/demo/Test.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-d8/src/main/java/com/github/devex/demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-d8/src/main/java/com/github/devex/demo/TestComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-d8/src/main/java/com/github/devex/demo/TestToolWindowFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-d8/src/main/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/config/options/recentProjects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/config/options/recentProjects.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,7 +282,7 @@
       <workItem from="1589289568940" duration="1207000" />
       <workItem from="1589375142804" duration="8000" />
       <workItem from="1589596559002" duration="14720000" />
-      <workItem from="1589682838937" duration="17336000" />
+      <workItem from="1589682838937" duration="17979000" />
     </task>
     <servers />
   </component>
@@ -325,22 +318,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="742" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1589723453206" />
-    <state width="1877" height="181" key="GridCell.Tab.0.bottom" timestamp="1589726141810">
+    <state width="1877" height="181" key="GridCell.Tab.0.bottom" timestamp="1589726711601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589726141810" />
-    <state width="1877" height="181" key="GridCell.Tab.0.center" timestamp="1589726141810">
+    <state width="1877" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589726711601" />
+    <state width="1877" height="181" key="GridCell.Tab.0.center" timestamp="1589726711601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="181" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589726141810" />
-    <state width="1877" height="181" key="GridCell.Tab.0.left" timestamp="1589726141810">
+    <state width="1877" height="181" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589726711601" />
+    <state width="1877" height="181" key="GridCell.Tab.0.left" timestamp="1589726711601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="181" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589726141810" />
-    <state width="1877" height="181" key="GridCell.Tab.0.right" timestamp="1589726141810">
+    <state width="1877" height="181" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589726711601" />
+    <state width="1877" height="181" key="GridCell.Tab.0.right" timestamp="1589726711601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="181" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589726141810" />
+    <state width="1877" height="181" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589726711601" />
     <state width="1877" height="152" key="GridCell.Tab.1.bottom" timestamp="1589725616885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
