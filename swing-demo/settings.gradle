@@ -5,4 +5,6 @@ include 'swing-d3'
 include 'swing-d4'
 include 'swing-d5'
 include 'swing-d6'
+include 'swing-d7'
+include 'swing-d8'
 
