@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd0c536c-9e58-43ec-8f33-0a5860ea0069" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/swing-d8/build/classes/java/main-instrumented/com/github/devex/demo/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/swing-d8/build/classes/java/main-instrumented/com/github/devex/demo/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing-d8/build/classes/java/main/com/github/devex/demo/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/swing-d8/build/classes/java/main/com/github/devex/demo/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/config/options/recentProjects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/config/options/recentProjects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/config/workspace/1byM0eDzNcFxd4tMLXatQyG3eLF.xml" beforeDir="false" afterPath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/config/workspace/1byM0eDzNcFxd4tMLXatQyG3eLF.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/plugins/availables.xml" beforeDir="false" afterPath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/plugins/availables.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/plugins/availables.xml.etag" beforeDir="false" afterPath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/plugins/availables.xml.etag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/plugins/swing-d8/lib/swing-d8-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/plugins/swing-d8/lib/swing-d8-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/system/log/idea.log" beforeDir="false" afterPath="$PROJECT_DIR$/swing-d8/build/idea-sandbox/system/log/idea.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing-d8/build/libs/swing-d8-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/swing-d8/build/libs/swing-d8-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing-d8/src/main/java/com/github/devex/demo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-d8/src/main/java/com/github/devex/demo/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,7 +291,7 @@
       <workItem from="1589289568940" duration="1207000" />
       <workItem from="1589375142804" duration="8000" />
       <workItem from="1589596559002" duration="14720000" />
-      <workItem from="1589682838937" duration="17979000" />
+      <workItem from="1589682838937" duration="20873000" />
     </task>
     <servers />
   </component>
@@ -318,22 +327,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="742" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1589723453206" />
-    <state width="1877" height="181" key="GridCell.Tab.0.bottom" timestamp="1589726711601">
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom" timestamp="1589729798962">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589726711601" />
-    <state width="1877" height="181" key="GridCell.Tab.0.center" timestamp="1589726711601">
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589729798962" />
+    <state width="1877" height="173" key="GridCell.Tab.0.center" timestamp="1589729798962">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="181" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589726711601" />
-    <state width="1877" height="181" key="GridCell.Tab.0.left" timestamp="1589726711601">
+    <state width="1877" height="173" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589729798962" />
+    <state width="1877" height="173" key="GridCell.Tab.0.left" timestamp="1589729798962">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="181" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589726711601" />
-    <state width="1877" height="181" key="GridCell.Tab.0.right" timestamp="1589726711601">
+    <state width="1877" height="173" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589729798962" />
+    <state width="1877" height="173" key="GridCell.Tab.0.right" timestamp="1589729798962">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="181" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589726711601" />
+    <state width="1877" height="173" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589729798962" />
     <state width="1877" height="152" key="GridCell.Tab.1.bottom" timestamp="1589725616885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -378,16 +387,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589724126566" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://D:/application/gradle/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.3.3/c4c0bbdbbf4f7479c616d595bd70cc310fbe2a97/ideaIC-2019.3.3-sources.jar!/com/intellij/ide/plugins/PluginManagerConfigurable.java</url>
-          <line>338</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
